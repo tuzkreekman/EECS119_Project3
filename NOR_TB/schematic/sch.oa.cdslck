@@ -6,11 +6,11 @@
 LockStakeVersion               1.1
 LoginName                      zainabk
 HostName                       zuma.eecs.uci.edu
-ProcessIdentifier              37766
-ProcessCreationTime_UTC        1511987710
-ProcessCreationTime_Readable   Wed Nov 29 12:35:10 2017 PST
+ProcessIdentifier              42531
+ProcessCreationTime_UTC        1512237575
+ProcessCreationTime_Readable   Sat Dec  2 09:59:35 2017 PST
 AppIdentifier                  OA File System Design Manager
 OSType                         unix
 ReasonForPlacingEditLock       OpenAccess edit lock
-FilePathUsedToEditLock         /users/ugrad2/2015/spring/zainabk/eecs119/EECS119_Project3/NAND/symbol/symbol.oa.cdslck
-TimeEditLocked                 Wed Nov 29 13:18:28 2017 PST
+FilePathUsedToEditLock         /users/ugrad2/2015/spring/zainabk/eecs119/EECS119_Project3/NOR_TB/schematic/sch.oa.cdslck.dirlck
+TimeEditLocked                 Sat Dec  2 11:46:31 2017 PST
